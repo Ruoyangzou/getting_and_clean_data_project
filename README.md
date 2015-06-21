@@ -5,3 +5,4 @@
 * the script will download zip file if there's not one and unzip it. the script will find those .txt files and read them into data.tables before perform any analysis.
 * the script needs plyr package to perform certain anaylsis, if you don't have this package installed, please do install.packages('plyr') to install it.
 * type `x_all`, `y_all`, `subject_all`, `clean_data`, `final_tidy` to check all variables.
+* there's also a `tidy_data.txt` for you to use, if you don't want to run analysis by yourself.(I'm lazy)
